@@ -25,25 +25,25 @@ Blood groups A- and A+ appeared among the most common blood groups in the datase
 
 Diabetes and Arthritis recorded some of the highest patient counts among all medical conditions. This indicates a growing burden of chronic diseases and suggests the need for stronger long-term disease management and preventive healthcare programs.
 
-### *Medical Condition with Highest Billing Amount*
+### * Medical Condition with Highest Billing Amount *
 
 ![Medical Condition with the Highest Billing Chart](images/Condition_with_the_Highest_Billing_Amount.png)
 
 Diabetes generated the highest billing amount among all medical conditions, contributing significantly to hospital revenue. This may be due to prolonged treatment, medication costs, and repeated hospital visits associated with chronic disease management.
 
-### *Total Hospital Revenue*
+### * Total Hospital Revenue *
 
 ![Total Revenue Table](images/Total_Hospital_Revenue_Chart.png)
 
 The hospital generated approximately ₦1.4 billion in total billing revenue, demonstrating strong financial performance and high patient activity across different departments and services.
 
-### *Monthly Revenue Trend*
+### * Monthly Revenue Trend *
 
 ![Monthly Revenue Trend](images/Monthly_Revenue_Trend_Chart.png)
 
 Revenue fluctuated across different months, with January recording one of the highest billing amounts. This suggests possible seasonal increases in hospital admissions and healthcare demand during certain periods of the year.
 
-### *Insurance Provider Contribution*
+### * Insurance Provider Contribution *
 ![Insurance Provider Contribution Chart](images/Insurance_Provider_Contribution_Chart.png)
 
 Medicare contributed the highest billing amount among insurance providers, making it one of the hospital’s most financially important healthcare partners. Maintaining strong partnerships with major insurance providers can improve financial sustainability.
@@ -75,6 +75,6 @@ Frequently prescribed medications were associated with high billing amounts, sho
 - Monitor monthly revenue patterns to improve hospital budgeting and staffing decisions.
 - Develop patient discharge optimization strategies to reduce prolonged hospital stays where possible.
 
-## * Conclusion*
+## * Conclusion *
 
 The healthcare analytics project provided valuable insights into hospital operations, patient behavior, financial performance, and treatment trends. Through the use of Pivot Tables and Pivot Charts, meaningful healthcare patterns were identified that can support management decision-making, operational planning, and improved patient care delivery.
